@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on making the wordle clone a custom app for iPhone.
+- 🌱 I’m currently learning databases (MongoDB) to implement accounts for a leaderboard on the custom wordle app.
+- 👯 I’m looking to collaborate on smaller apps for experience and to grow my resume.
+
 <!--
 **AndresCR22/andrescr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

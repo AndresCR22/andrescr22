@@ -2,7 +2,7 @@
 
 My name is Andrés, I am a KSU trained computer sceintist interested in Python, Web Development, & Data Science!
 
-- 🔭 I’m currently working on making the wordle clone a custom app for iPhone, you can check it out here [here](https://github.com/AndresCR22/WordleClone).
+- 🔭 I’m currently working on an AI Dungeon Master for people to play/experience Dungeons And Dragons.
 - 📖 I’m currently learning databases (MongoDB) to implement accounts for a leaderboard on the custom wordle app.
 - 👯 I’m looking to collaborate on smaller apps for experience and to grow my resume.
 
